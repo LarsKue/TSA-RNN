@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jetbrains
+.idea/
+
+# Data
+data/
+*.csv
+*.xls
