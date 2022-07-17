@@ -1,0 +1,216 @@
+Language: Arabic:
+    ier
+    alouf
+    ada
+    essa
+    an
+    azzi
+    uerishi
+    ureshi
+    essaha
+    oul
+
+Language: Chinese:
+    ak
+    an
+    uing
+    ai
+    i
+    a
+    ang
+    ang
+    im
+    
+
+Language: Czech:
+    issam
+    ynar
+    hmel
+    vlycka
+    arik
+    uiser
+    ivak
+    anik
+    tlew
+    out
+
+Language: Dutch:
+    ompan
+    engers
+    urna
+    echer
+    asen
+    cts
+    ernason
+    ass
+    ere
+    eines
+
+Language: English:
+    eltham
+    ntowa
+    amler
+    otren
+    ishop
+    gley
+    man
+    eger
+    anx
+    elane
+
+Language: French:
+    amie
+    ileu
+    uore
+    aupo
+    amber
+    itt
+    alte
+    uemen
+    aumon
+    er
+
+Language: German:
+    itt
+    uge
+    anquer
+    eig
+    ih
+    osem
+    mensterbe
+    bri
+    erver
+    uennicher
+
+Language: Greek:
+    slaver
+    oss
+    oros
+    etsetekes
+    anij
+    itas
+    ratis
+    arnipos
+    melos
+    amslou
+
+Language: Irish:
+    eke
+    auiry
+    almin
+    ilen
+    gaman
+    inaad
+    ngarachth
+    obudh
+    eiry
+    elly
+
+Language: Italian:
+    tti
+    ici
+    ecchiani
+    andoni
+    alowelsi
+    igeni
+    ente
+    ole
+    ori
+    ibensi
+
+Language: Japanese:
+    anaki
+    ela
+    i
+    gamato
+    ionanaga
+    asawa
+    utsun
+    ta
+    chio
+    agaki
+
+Language: Korean:
+    a
+    he
+    u
+    h
+    lk
+    
+    
+    ak
+    ubabo
+    ouk
+
+Language: Polish:
+    tzarek
+    iferkiauk
+    oy
+    rolatki
+    roski
+    sevannick
+    ioni
+    zek
+    kal
+    ebel
+
+Language: Portuguese:
+    uelden
+    slete
+    yolanes
+    albo
+    osa
+    pelleques
+    igo
+    ashova
+    mes
+    rge
+
+Language: Russian:
+    obestov
+    aletin
+    hekov
+    leva
+    en
+    oibula
+    its
+    hmanov
+    ierchy
+    unomar
+
+Language: Scottish:
+    inneill
+    lesth
+    ennson
+    yleter
+    uvencos
+    enard
+    ikles
+    unsty
+    ulter
+    ylett
+
+Language: Spanish:
+    ano
+    atera
+    ga
+    ello
+    ibera
+    anes
+    kbell
+    rro
+    eerre
+    oer
+
+Language: Vietnamese:
+    re
+    i
+    p
+    ni
+    uy
+    ui
+    ae
+    ay
+    yan
+    i
+
